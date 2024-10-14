@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0042-trapping-rain-water) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0215-kth-largest-element-in-an-array) |
 | [1002-maximum-width-ramp](https://github.com/rei-naissance/LeetCode-Solves/tree/master/1002-maximum-width-ramp) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/rei-naissance/LeetCode-Solves/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -47,9 +48,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0042-trapping-rain-water) |
 | [1002-maximum-width-ramp](https://github.com/rei-naissance/LeetCode-Solves/tree/master/1002-maximum-width-ramp) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0042-trapping-rain-water) |
 | [1002-maximum-width-ramp](https://github.com/rei-naissance/LeetCode-Solves/tree/master/1002-maximum-width-ramp) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
