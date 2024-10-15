@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0692-top-k-frequent-words) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/rei-naissance/LeetCode-Solves/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Linked List
 |  |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
@@ -75,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0692-top-k-frequent-words) |
 | [3195-separate-black-and-white-balls](https://github.com/rei-naissance/LeetCode-Solves/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
 |  |
@@ -84,12 +87,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0692-top-k-frequent-words) |
 ## Counting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0692-top-k-frequent-words) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
