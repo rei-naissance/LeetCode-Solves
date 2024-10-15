@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0042-trapping-rain-water) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0215-kth-largest-element-in-an-array) |
 | [1002-maximum-width-ramp](https://github.com/rei-naissance/LeetCode-Solves/tree/master/1002-maximum-width-ramp) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/rei-naissance/LeetCode-Solves/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0042-trapping-rain-water) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3195-separate-black-and-white-balls](https://github.com/rei-naissance/LeetCode-Solves/tree/master/3195-separate-black-and-white-balls) |
 ## Dynamic Programming
 |  |
@@ -69,4 +71,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3195-separate-black-and-white-balls](https://github.com/rei-naissance/LeetCode-Solves/tree/master/3195-separate-black-and-white-balls) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
