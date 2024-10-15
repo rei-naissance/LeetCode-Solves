@@ -7,9 +7,7 @@ class Solution:
             s = numbers[left] + numbers[right]
             if s < target:
                 left += 1
-                continue
             elif s > target:
                 right -= 1
-                continue
             else:
                 return [left + 1, right + 1]
