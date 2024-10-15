@@ -1,6 +1,6 @@
 class Solution:
     def topKFrequent(self, words: List[str], k: int) -> List[str]:
-        
+        # one liner
         return [k for k,v in sorted(Counter(words).items(), key = lambda x:(-x[1], x))][:k]
 
         # Record frequency of strings
