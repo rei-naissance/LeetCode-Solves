@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [1304-longest-happy-string](https://github.com/rei-naissance/LeetCode-Solves/tree/master/1304-longest-happy-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/rei-naissance/LeetCode-Solves/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/rei-naissance/LeetCode-Solves/tree/master/3195-separate-black-and-white-balls) |
 ## Heap (Priority Queue)
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0692-top-k-frequent-words) |
+| [1304-longest-happy-string](https://github.com/rei-naissance/LeetCode-Solves/tree/master/1304-longest-happy-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/rei-naissance/LeetCode-Solves/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Linked List
 |  |
@@ -78,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0692-top-k-frequent-words) |
+| [1304-longest-happy-string](https://github.com/rei-naissance/LeetCode-Solves/tree/master/1304-longest-happy-string) |
 | [3195-separate-black-and-white-balls](https://github.com/rei-naissance/LeetCode-Solves/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
 |  |
