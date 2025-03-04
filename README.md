@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0002-add-two-numbers) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/rei-naissance/LeetCode-Solves/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## Recursion
 |  |
 | ------- |
