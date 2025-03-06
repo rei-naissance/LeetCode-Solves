@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2551-apply-operations-to-an-array](https://github.com/rei-naissance/LeetCode-Solves/tree/master/2551-apply-operations-to-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/rei-naissance/LeetCode-Solves/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/rei-naissance/LeetCode-Solves/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/rei-naissance/LeetCode-Solves/tree/master/3227-find-missing-and-repeated-values) |
 ## Greedy
 |  |
 | ------- |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0002-add-two-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/rei-naissance/LeetCode-Solves/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2649-count-total-number-of-colored-cells](https://github.com/rei-naissance/LeetCode-Solves/tree/master/2649-count-total-number-of-colored-cells) |
+| [3227-find-missing-and-repeated-values](https://github.com/rei-naissance/LeetCode-Solves/tree/master/3227-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
@@ -100,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0692-top-k-frequent-words) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/rei-naissance/LeetCode-Solves/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/rei-naissance/LeetCode-Solves/tree/master/3227-find-missing-and-repeated-values) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -119,4 +122,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/rei-naissance/LeetCode-Solves/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/rei-naissance/LeetCode-Solves/tree/master/2551-apply-operations-to-an-array) |
+## Matrix
+|  |
+| ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/rei-naissance/LeetCode-Solves/tree/master/3227-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
