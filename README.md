@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2616-maximal-score-after-applying-k-operations](https://github.com/rei-naissance/LeetCode-Solves/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/rei-naissance/LeetCode-Solves/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/rei-naissance/LeetCode-Solves/tree/master/3227-find-missing-and-repeated-values) |
+| [3483-alternating-groups-ii](https://github.com/rei-naissance/LeetCode-Solves/tree/master/3483-alternating-groups-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -131,4 +132,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/rei-naissance/LeetCode-Solves/tree/master/2610-closest-prime-numbers-in-range) |
+## Sliding Window
+|  |
+| ------- |
+| [3483-alternating-groups-ii](https://github.com/rei-naissance/LeetCode-Solves/tree/master/3483-alternating-groups-ii) |
 <!---LeetCode Topics End-->
