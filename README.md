@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0058-length-of-last-word) |
 | [0692-top-k-frequent-words](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0692-top-k-frequent-words) |
 | [1304-longest-happy-string](https://github.com/rei-naissance/LeetCode-Solves/tree/master/1304-longest-happy-string) |
 | [3195-separate-black-and-white-balls](https://github.com/rei-naissance/LeetCode-Solves/tree/master/3195-separate-black-and-white-balls) |
