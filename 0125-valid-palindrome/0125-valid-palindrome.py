@@ -7,8 +7,7 @@ class Solution:
                 ret += char
 
         ret = ret.lower()
-        print(ret)
+        
+        # print(ret)
 
-        flag = ret == ret[::-1]
-
-        return flag
+        return ret == ret[::-1]
