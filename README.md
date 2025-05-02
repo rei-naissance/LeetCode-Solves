@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0283-move-zeroes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/rei-naissance/LeetCode-Solves/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0125-valid-palindrome) |
 | [0692-top-k-frequent-words](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0692-top-k-frequent-words) |
 | [1304-longest-happy-string](https://github.com/rei-naissance/LeetCode-Solves/tree/master/1304-longest-happy-string) |
 | [3195-separate-black-and-white-balls](https://github.com/rei-naissance/LeetCode-Solves/tree/master/3195-separate-black-and-white-balls) |
