@@ -10,7 +10,5 @@ class Solution:
                 break
             if char == s[i]:
                 i += 1    
-            else:
-                continue   
 
         return i == len(s)
