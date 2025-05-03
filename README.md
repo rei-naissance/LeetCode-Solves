@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0042-trapping-rain-water) |
+| [0136-single-number](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0215-kth-largest-element-in-an-array) |
@@ -148,4 +149,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3483-alternating-groups-ii](https://github.com/rei-naissance/LeetCode-Solves/tree/master/3483-alternating-groups-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
