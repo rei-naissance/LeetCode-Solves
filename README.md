@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0069-sqrtx) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/rei-naissance/LeetCode-Solves/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/rei-naissance/LeetCode-Solves/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/rei-naissance/LeetCode-Solves/tree/master/2649-count-total-number-of-colored-cells) |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
