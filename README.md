@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0202-happy-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/rei-naissance/LeetCode-Solves/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/rei-naissance/LeetCode-Solves/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/rei-naissance/LeetCode-Solves/tree/master/2649-count-total-number-of-colored-cells) |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0392-is-subsequence) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/rei-naissance/LeetCode-Solves/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -118,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/rei-naissance/LeetCode-Solves/tree/master/0692-top-k-frequent-words) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/rei-naissance/LeetCode-Solves/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
